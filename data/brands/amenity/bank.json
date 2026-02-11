@@ -8129,23 +8129,6 @@
       }
     },
     {
-      "displayName": "HSBC Armenia",
-      "id": "hsbc-9c44ae",
-      "locationSet": {"include": ["am"]},
-      "tags": {
-        "amenity": "bank",
-        "brand": "Էյչ-Էս-Բի-Սի",
-        "brand:en": "HSBC",
-        "brand:hy": "Էյչ-Էս-Բի-Սի",
-        "brand:ru": "Эйдж-Эс-Би-Си",
-        "brand:wikidata": "Q190464",
-        "name": "Էյչ-Էս-Բի-Սի",
-        "name:en": "HSBC",
-        "name:hy": "Էյչ-Էս-Բի-Սի",
-        "name:ru": "Эйдж-Эс-Би-Си"
-      }
-    },
-    {
       "displayName": "HSBC UK",
       "id": "hsbcuk-e1e9d0",
       "locationSet": {"include": ["gb"]},
